@@ -16,7 +16,7 @@ The Unemployed profession trait uses a custom icon.
 
 Profession traits appear in the positive trait list and in green regardless of
 their point cost; their actual costs are unchanged. VCM Trait Groups is required
-and displays them under **VCM Prof**.
+and displays them under **VCM Professions**.
 
 The bundled system retains the `VCMProfessions` trait IDs and sandbox option
 namespace for compatibility. All settings are on the VCM Professions sandbox

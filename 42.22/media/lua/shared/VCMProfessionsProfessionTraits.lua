@@ -116,7 +116,7 @@ function traits.refreshDisplay()
         end
         definition:setTexture(source and icons[trait].icon or nil)
         definition:setDescription(descriptionWithoutSkills(profession))
-        VCMProfessionsTraitGroups[trait] = "VCM Prof"
+        VCMProfessionsTraitGroups[trait] = "VCM Professions"
     end
 end
 
