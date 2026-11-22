@@ -1,0 +1,8 @@
+id=vcmprofessions
+name=VCM Professions
+description=Convert professions into trait group for more flexible character building.
+author=VCM
+poster=../poster.png
+icon=../icon.png
+versionMin=42.22
+require=\vcmtraitgroups

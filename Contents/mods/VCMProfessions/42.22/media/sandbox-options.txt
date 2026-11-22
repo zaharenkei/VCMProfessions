@@ -1,0 +1,187 @@
+VERSION = 1,
+
+option VCMProfessions.DisableSkillTraits
+{
+    type = boolean, default = true,
+    page = VCMProfessions, translation = VCMProfessions_DisableSkillTraits,
+}
+option VCMProfessions.NoviceSkillCost
+{
+    type = integer, min = 0, max = 1000, default = 1,
+    page = VCMProfessions, translation = VCMProfessions_NoviceSkillCost,
+}
+option VCMProfessions.UnexperiencedSkillLevel
+{
+    type = integer, min = 0, max = 10, default = 0,
+    page = VCMProfessions, translation = VCMProfessions_UnexperiencedSkillLevel,
+}
+option VCMProfessions.NoviceSkillLevel
+{
+    type = integer, min = 0, max = 10, default = 1,
+    page = VCMProfessions, translation = VCMProfessions_NoviceSkillLevel,
+}
+option VCMProfessions.ConfidentSkillLevel
+{
+    type = integer, min = 0, max = 10, default = 2,
+    page = VCMProfessions, translation = VCMProfessions_ConfidentSkillLevel,
+}
+option VCMProfessions.MasterSkillLevel
+{
+    type = integer, min = 0, max = 10, default = 3,
+    page = VCMProfessions, translation = VCMProfessions_MasterSkillLevel,
+}
+option VCMProfessions.ConfidentSkillCost
+{
+    type = integer, min = 0, max = 1000, default = 2,
+    page = VCMProfessions, translation = VCMProfessions_ConfidentSkillCost,
+}
+option VCMProfessions.MasterSkillCost
+{
+    type = integer, min = 0, max = 1000, default = 4,
+    page = VCMProfessions, translation = VCMProfessions_MasterSkillCost,
+}
+option VCMProfessions.CappingEnabled
+{
+    type = boolean, default = true,
+    page = VCMProfessions, translation = VCMProfessions_CappingEnabled,
+}
+option VCMProfessions.UnqualifiedSkillCap
+{
+    type = integer, min = 0, max = 10, default = 2,
+    page = VCMProfessions, translation = VCMProfessions_UnqualifiedSkillCap,
+}
+option VCMProfessions.NoviceSkillCap
+{
+    type = integer, min = 0, max = 10, default = 4,
+    page = VCMProfessions, translation = VCMProfessions_NoviceSkillCap,
+}
+option VCMProfessions.ConfidentSkillCap
+{
+    type = integer, min = 0, max = 10, default = 6,
+    page = VCMProfessions, translation = VCMProfessions_ConfidentSkillCap,
+}
+option VCMProfessions.MasterSkillCap
+{
+    type = integer, min = 0, max = 10, default = 10,
+    page = VCMProfessions, translation = VCMProfessions_MasterSkillCap,
+}
+option VCMProfessions.PhysicalEnabled
+{
+    type = boolean, default = true,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalEnabled,
+}
+option VCMProfessions.StrengthNoviceCost
+{
+    type = integer, min = 0, max = 1000, default = 3,
+    page = VCMProfessions, translation = VCMProfessions_StrengthNoviceCost,
+}
+option VCMProfessions.StrengthConfidentCost
+{
+    type = integer, min = 0, max = 1000, default = 6,
+    page = VCMProfessions, translation = VCMProfessions_StrengthConfidentCost,
+}
+option VCMProfessions.StrengthMasterCost
+{
+    type = integer, min = 0, max = 1000, default = 9,
+    page = VCMProfessions, translation = VCMProfessions_StrengthMasterCost,
+}
+option VCMProfessions.FitnessNoviceCost
+{
+    type = integer, min = 0, max = 1000, default = 3,
+    page = VCMProfessions, translation = VCMProfessions_FitnessNoviceCost,
+}
+option VCMProfessions.FitnessConfidentCost
+{
+    type = integer, min = 0, max = 1000, default = 6,
+    page = VCMProfessions, translation = VCMProfessions_FitnessConfidentCost,
+}
+option VCMProfessions.FitnessMasterCost
+{
+    type = integer, min = 0, max = 1000, default = 9,
+    page = VCMProfessions, translation = VCMProfessions_FitnessMasterCost,
+}
+option VCMProfessions.PhysicalUnexperiencedLevel
+{
+    type = integer, min = 0, max = 10, default = 4,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalUnexperiencedLevel,
+}
+option VCMProfessions.PhysicalNoviceLevel
+{
+    type = integer, min = 0, max = 10, default = 5,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalNoviceLevel,
+}
+option VCMProfessions.PhysicalConfidentLevel
+{
+    type = integer, min = 0, max = 10, default = 6,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalConfidentLevel,
+}
+option VCMProfessions.PhysicalMasterLevel
+{
+    type = integer, min = 0, max = 10, default = 8,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalMasterLevel,
+}
+option VCMProfessions.FitnessUnexperiencedLevel
+{
+    type = integer, min = 0, max = 10, default = 4,
+    page = VCMProfessions, translation = VCMProfessions_FitnessUnexperiencedLevel,
+}
+option VCMProfessions.FitnessNoviceLevel
+{
+    type = integer, min = 0, max = 10, default = 5,
+    page = VCMProfessions, translation = VCMProfessions_FitnessNoviceLevel,
+}
+option VCMProfessions.FitnessConfidentLevel
+{
+    type = integer, min = 0, max = 10, default = 6,
+    page = VCMProfessions, translation = VCMProfessions_FitnessConfidentLevel,
+}
+option VCMProfessions.FitnessMasterLevel
+{
+    type = integer, min = 0, max = 10, default = 8,
+    page = VCMProfessions, translation = VCMProfessions_FitnessMasterLevel,
+}
+option VCMProfessions.PhysicalCappingEnabled
+{
+    type = boolean, default = true,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalCappingEnabled,
+}
+option VCMProfessions.PhysicalUnexperiencedCap
+{
+    type = integer, min = 0, max = 10, default = 4,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalUnexperiencedCap,
+}
+option VCMProfessions.PhysicalNoviceCap
+{
+    type = integer, min = 0, max = 10, default = 6,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalNoviceCap,
+}
+option VCMProfessions.PhysicalConfidentCap
+{
+    type = integer, min = 0, max = 10, default = 8,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalConfidentCap,
+}
+option VCMProfessions.PhysicalMasterCap
+{
+    type = integer, min = 0, max = 10, default = 10,
+    page = VCMProfessions, translation = VCMProfessions_PhysicalMasterCap,
+}
+option VCMProfessions.FitnessUnexperiencedCap
+{
+    type = integer, min = 0, max = 10, default = 4,
+    page = VCMProfessions, translation = VCMProfessions_FitnessUnexperiencedCap,
+}
+option VCMProfessions.FitnessNoviceCap
+{
+    type = integer, min = 0, max = 10, default = 6,
+    page = VCMProfessions, translation = VCMProfessions_FitnessNoviceCap,
+}
+option VCMProfessions.FitnessConfidentCap
+{
+    type = integer, min = 0, max = 10, default = 8,
+    page = VCMProfessions, translation = VCMProfessions_FitnessConfidentCap,
+}
+option VCMProfessions.FitnessMasterCap
+{
+    type = integer, min = 0, max = 10, default = 10,
+    page = VCMProfessions, translation = VCMProfessions_FitnessMasterCap,
+}

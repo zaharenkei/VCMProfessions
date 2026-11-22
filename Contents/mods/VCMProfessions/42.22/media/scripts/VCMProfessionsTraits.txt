@@ -1,0 +1,1113 @@
+module VCMProfessions
+{
+    character_trait_definition VCMProfessions:professional_aiming
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_aiming,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_aiming,
+        XPBoosts = Aiming=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_axe
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_axe,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_axe,
+        XPBoosts = Axe=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_blacksmith
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_blacksmith,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_blacksmith,
+        XPBoosts = Blacksmith=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_blunt
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_blunt,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_blunt,
+        XPBoosts = Blunt=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_butchering
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_butchering,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_butchering,
+        XPBoosts = Butchering=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_carving
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_carving,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_carving,
+        XPBoosts = Carving=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_cooking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_cooking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_cooking,
+        XPBoosts = Cooking=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_doctor
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_doctor,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_doctor,
+        XPBoosts = Doctor=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_electricity
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_electricity,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_electricity,
+        XPBoosts = Electricity=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_farming
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_farming,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_farming,
+        XPBoosts = Farming=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_fishing
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_fishing,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_fishing,
+        XPBoosts = Fishing=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_fitness
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_fitness,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_fitness,
+    }
+
+    character_trait_definition VCMProfessions:professional_flintknapping
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_flintknapping,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_flintknapping,
+        XPBoosts = FlintKnapping=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_glassmaking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_glassmaking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_glassmaking,
+        XPBoosts = Glassmaking=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_husbandry
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_husbandry,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_husbandry,
+        XPBoosts = Husbandry=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_lightfoot
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_lightfoot,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_lightfoot,
+        XPBoosts = Lightfoot=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_longblade
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_longblade,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_longblade,
+        XPBoosts = LongBlade=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_maintenance
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_maintenance,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_maintenance,
+        XPBoosts = Maintenance=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_masonry
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_masonry,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_masonry,
+        XPBoosts = Masonry=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_mechanics
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_mechanics,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_mechanics,
+        XPBoosts = Mechanics=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_melting
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_melting,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_melting,
+        XPBoosts = Melting=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_metalwelding
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_metalwelding,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_metalwelding,
+        XPBoosts = MetalWelding=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_nimble
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_nimble,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_nimble,
+        XPBoosts = Nimble=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_plantscavenging
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_plantscavenging,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_plantscavenging,
+        XPBoosts = PlantScavenging=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_pottery
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_pottery,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_pottery,
+        XPBoosts = Pottery=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_reloading
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_reloading,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_reloading,
+        XPBoosts = Reloading=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_smallblade
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_smallblade,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_smallblade,
+        XPBoosts = SmallBlade=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_smallblunt
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_smallblunt,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_smallblunt,
+        XPBoosts = SmallBlunt=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_sneak
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_sneak,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_sneak,
+        XPBoosts = Sneak=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_spear
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_spear,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_spear,
+        XPBoosts = Spear=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_sprinting
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_sprinting,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_sprinting,
+        XPBoosts = Sprinting=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_strength
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_strength,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_strength,
+    }
+
+    character_trait_definition VCMProfessions:professional_tailoring
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_tailoring,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_tailoring,
+        XPBoosts = Tailoring=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_tracking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_tracking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_tracking,
+        XPBoosts = Tracking=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_trapping
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_trapping,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_trapping,
+        XPBoosts = Trapping=3,
+    }
+
+    character_trait_definition VCMProfessions:professional_woodwork
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:professional_woodwork,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_professional_woodwork,
+        XPBoosts = Woodwork=3,
+    }
+
+    character_trait_definition VCMProfessions:familiar_aiming
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_aiming,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_aiming,
+        XPBoosts = Aiming=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_axe
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_axe,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_axe,
+        XPBoosts = Axe=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_blacksmith
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_blacksmith,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_blacksmith,
+        XPBoosts = Blacksmith=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_blunt
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_blunt,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_blunt,
+        XPBoosts = Blunt=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_butchering
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_butchering,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_butchering,
+        XPBoosts = Butchering=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_carving
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_carving,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_carving,
+        XPBoosts = Carving=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_cooking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_cooking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_cooking,
+        XPBoosts = Cooking=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_doctor
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_doctor,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_doctor,
+        XPBoosts = Doctor=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_electricity
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_electricity,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_electricity,
+        XPBoosts = Electricity=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_farming
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_farming,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_farming,
+        XPBoosts = Farming=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_fishing
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_fishing,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_fishing,
+        XPBoosts = Fishing=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_fitness
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_fitness,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_fitness,
+    }
+
+    character_trait_definition VCMProfessions:familiar_flintknapping
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_flintknapping,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_flintknapping,
+        XPBoosts = FlintKnapping=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_glassmaking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_glassmaking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_glassmaking,
+        XPBoosts = Glassmaking=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_husbandry
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_husbandry,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_husbandry,
+        XPBoosts = Husbandry=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_lightfoot
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_lightfoot,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_lightfoot,
+        XPBoosts = Lightfoot=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_longblade
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_longblade,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_longblade,
+        XPBoosts = LongBlade=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_maintenance
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_maintenance,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_maintenance,
+        XPBoosts = Maintenance=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_masonry
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_masonry,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_masonry,
+        XPBoosts = Masonry=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_mechanics
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_mechanics,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_mechanics,
+        XPBoosts = Mechanics=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_melting
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_melting,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_melting,
+        XPBoosts = Melting=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_metalwelding
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_metalwelding,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_metalwelding,
+        XPBoosts = MetalWelding=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_nimble
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_nimble,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_nimble,
+        XPBoosts = Nimble=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_plantscavenging
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_plantscavenging,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_plantscavenging,
+        XPBoosts = PlantScavenging=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_pottery
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_pottery,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_pottery,
+        XPBoosts = Pottery=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_reloading
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_reloading,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_reloading,
+        XPBoosts = Reloading=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_smallblade
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_smallblade,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_smallblade,
+        XPBoosts = SmallBlade=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_smallblunt
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_smallblunt,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_smallblunt,
+        XPBoosts = SmallBlunt=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_sneak
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_sneak,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_sneak,
+        XPBoosts = Sneak=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_spear
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_spear,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_spear,
+        XPBoosts = Spear=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_sprinting
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_sprinting,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_sprinting,
+        XPBoosts = Sprinting=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_strength
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_strength,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_strength,
+    }
+
+    character_trait_definition VCMProfessions:familiar_tailoring
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_tailoring,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_tailoring,
+        XPBoosts = Tailoring=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_tracking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_tracking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_tracking,
+        XPBoosts = Tracking=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_trapping
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_trapping,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_trapping,
+        XPBoosts = Trapping=1,
+    }
+
+    character_trait_definition VCMProfessions:familiar_woodwork
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:familiar_woodwork,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_familiar_woodwork,
+        XPBoosts = Woodwork=1,
+    }
+
+    character_trait_definition VCMProfessions:badat_aiming
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_aiming,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_aiming,
+        XPBoosts = Aiming=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_axe
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_axe,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_axe,
+        XPBoosts = Axe=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_blacksmith
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_blacksmith,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_blacksmith,
+        XPBoosts = Blacksmith=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_blunt
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_blunt,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_blunt,
+        XPBoosts = Blunt=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_butchering
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_butchering,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_butchering,
+        XPBoosts = Butchering=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_carving
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_carving,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_carving,
+        XPBoosts = Carving=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_cooking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_cooking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_cooking,
+        XPBoosts = Cooking=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_doctor
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_doctor,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_doctor,
+        XPBoosts = Doctor=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_electricity
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_electricity,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_electricity,
+        XPBoosts = Electricity=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_farming
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_farming,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_farming,
+        XPBoosts = Farming=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_fishing
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_fishing,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_fishing,
+        XPBoosts = Fishing=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_fitness
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_fitness,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_fitness,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_flintknapping
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_flintknapping,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_flintknapping,
+        XPBoosts = FlintKnapping=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_glassmaking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_glassmaking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_glassmaking,
+        XPBoosts = Glassmaking=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_husbandry
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_husbandry,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_husbandry,
+        XPBoosts = Husbandry=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_lightfoot
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_lightfoot,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_lightfoot,
+        XPBoosts = Lightfoot=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_longblade
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_longblade,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_longblade,
+        XPBoosts = LongBlade=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_maintenance
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_maintenance,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_maintenance,
+        XPBoosts = Maintenance=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_masonry
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_masonry,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_masonry,
+        XPBoosts = Masonry=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_mechanics
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_mechanics,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_mechanics,
+        XPBoosts = Mechanics=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_melting
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_melting,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_melting,
+        XPBoosts = Melting=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_metalwelding
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_metalwelding,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_metalwelding,
+        XPBoosts = MetalWelding=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_nimble
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_nimble,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_nimble,
+        XPBoosts = Nimble=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_plantscavenging
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_plantscavenging,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_plantscavenging,
+        XPBoosts = PlantScavenging=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_pottery
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_pottery,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_pottery,
+        XPBoosts = Pottery=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_reloading
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_reloading,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_reloading,
+        XPBoosts = Reloading=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_smallblade
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_smallblade,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_smallblade,
+        XPBoosts = SmallBlade=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_smallblunt
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_smallblunt,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_smallblunt,
+        XPBoosts = SmallBlunt=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_sneak
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_sneak,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_sneak,
+        XPBoosts = Sneak=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_spear
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_spear,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_spear,
+        XPBoosts = Spear=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_sprinting
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_sprinting,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_sprinting,
+        XPBoosts = Sprinting=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_strength
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_strength,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_strength,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_tailoring
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_tailoring,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_tailoring,
+        XPBoosts = Tailoring=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_tracking
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_tracking,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_tracking,
+        XPBoosts = Tracking=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_trapping
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_trapping,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_trapping,
+        XPBoosts = Trapping=2,
+
+    }
+
+    character_trait_definition VCMProfessions:badat_woodwork
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = VCMProfessions:badat_woodwork,
+        Cost = 0,
+        UIName = UI_trait_vcmprofessions_badat_woodwork,
+        XPBoosts = Woodwork=2,
+
+    }
+
+}

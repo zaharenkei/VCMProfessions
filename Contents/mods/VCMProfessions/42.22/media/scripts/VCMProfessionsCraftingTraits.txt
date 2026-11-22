@@ -1,0 +1,24 @@
+module VCMProfessions
+{
+    character_trait_definition VCMProfessions:crafting_cook { CharacterTrait = VCMProfessions:crafting_cook, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_cook, }
+    character_trait_definition VCMProfessions:crafting_trapper { CharacterTrait = VCMProfessions:crafting_trapper, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_trapper, }
+    character_trait_definition VCMProfessions:crafting_medic { CharacterTrait = VCMProfessions:crafting_medic, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_medic, }
+    character_trait_definition VCMProfessions:crafting_fisher { CharacterTrait = VCMProfessions:crafting_fisher, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_fisher, }
+    character_trait_definition VCMProfessions:crafting_butcher { CharacterTrait = VCMProfessions:crafting_butcher, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_butcher, }
+    character_trait_definition VCMProfessions:crafting_rancher { CharacterTrait = VCMProfessions:crafting_rancher, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_rancher, }
+    character_trait_definition VCMProfessions:crafting_farmer { CharacterTrait = VCMProfessions:crafting_farmer, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_farmer, }
+    character_trait_definition VCMProfessions:crafting_mechanic { CharacterTrait = VCMProfessions:crafting_mechanic, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_mechanic, }
+    character_trait_definition VCMProfessions:crafting_welder { CharacterTrait = VCMProfessions:crafting_welder, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_welder, }
+    character_trait_definition VCMProfessions:crafting_carpenter { CharacterTrait = VCMProfessions:crafting_carpenter, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_carpenter, }
+    character_trait_definition VCMProfessions:crafting_carver { CharacterTrait = VCMProfessions:crafting_carver, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_carver, }
+    character_trait_definition VCMProfessions:crafting_blacksmith { CharacterTrait = VCMProfessions:crafting_blacksmith, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_blacksmith, }
+    character_trait_definition VCMProfessions:crafting_potter { CharacterTrait = VCMProfessions:crafting_potter, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_potter, }
+    character_trait_definition VCMProfessions:crafting_mason { CharacterTrait = VCMProfessions:crafting_mason, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_mason, }
+    character_trait_definition VCMProfessions:crafting_knapper { CharacterTrait = VCMProfessions:crafting_knapper, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_knapper, }
+    character_trait_definition VCMProfessions:crafting_glassmaker { CharacterTrait = VCMProfessions:crafting_glassmaker, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_glassmaker, }
+    character_trait_definition VCMProfessions:crafting_tailor { CharacterTrait = VCMProfessions:crafting_tailor, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_tailor, }
+    character_trait_definition VCMProfessions:crafting_electrician { CharacterTrait = VCMProfessions:crafting_electrician, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_electrician, }
+    character_trait_definition VCMProfessions:crafting_smelter { CharacterTrait = VCMProfessions:crafting_smelter, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_smelter, }
+    character_trait_definition VCMProfessions:crafting_repairer { CharacterTrait = VCMProfessions:crafting_repairer, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_repairer, }
+    character_trait_definition VCMProfessions:crafting_forager { CharacterTrait = VCMProfessions:crafting_forager, Cost = 1, UIName = UI_trait_vcmprofessions_crafting_forager, }
+}
