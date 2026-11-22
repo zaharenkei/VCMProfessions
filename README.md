@@ -24,27 +24,20 @@ page. Test existing saves before migrating.
 
 ## Installation
 
-Requires Project Zomboid 42.22 or later and VCM Trait Groups. Copy
-`Contents\mods\VCMProfessions` to `%USERPROFILE%\Zomboid\mods\` and place
-`LICENSE` in the copied mod folder, or run `deploy-local.bat`, then enable both
-mods. The script replaces files of an existing local VCM Professions
-installation. Install the same version on the server and clients for
+Requires Project Zomboid 42.22 or later and VCM Trait Groups. Copy this mod
+folder to `%USERPROFILE%\Zomboid\mods\` (excluding `.git` if present), then
+enable both mods. Install the same version on the server and clients for
 multiplayer.
 
 ## Workshop staging
 
-Run `deploy-workshop.bat` to copy runtime files, the license and the preview to
-`%USERPROFILE%\Zomboid\Workshop\VCMProfessions`. It preserves existing Workshop
-metadata and does not upload. Workshop item metadata must be configured through
-the game before publishing.
+Copy the mod folder to
+`%USERPROFILE%\Zomboid\Workshop\VCMProfessions\Contents\mods\VCMProfessions`
+without its `.git` directory, and copy `preview.png` to
+`%USERPROFILE%\Zomboid\Workshop\VCMProfessions`.
+Workshop item metadata must be configured through the game before publishing.
 
 ## Development
-
-The Lua regression tests in `tests` run from this directory, for example:
-
-```powershell
-Get-ChildItem tests\*-test.lua | ForEach-Object { lua $_.FullName }
-```
 
 In-game character creation and multiplayer should also be tested.
 

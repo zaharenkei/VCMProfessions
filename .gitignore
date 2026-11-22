@@ -3,6 +3,7 @@
 *.tmp
 *.bak
 *.swp
+*.bat
 Thumbs.db
 .DS_Store
 .idea/
