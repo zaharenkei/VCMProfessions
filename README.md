@@ -21,6 +21,8 @@ and displays them under **VCM Professions**.
 Traits from other mods remain selectable. The **Disable skill traits** sandbox
 option also applies to modded traits that grant skill levels.
 
+Available languages: English, Spanish, Simplified Chinese, and Russian.
+
 The bundled system retains the `VCMProfessions` trait IDs and sandbox option
 namespace for compatibility. All settings are on the VCM Professions sandbox
 page. Test existing saves before migrating.
