@@ -18,6 +18,9 @@ Profession traits appear in the positive trait list and in green regardless of
 their point cost; their actual costs are unchanged. VCM Trait Groups is required
 and displays them under **VCM Professions**.
 
+Traits from other mods remain selectable. The **Disable skill traits** sandbox
+option also applies to modded traits that grant skill levels.
+
 The bundled system retains the `VCMProfessions` trait IDs and sandbox option
 namespace for compatibility. All settings are on the VCM Professions sandbox
 page. Test existing saves before migrating.

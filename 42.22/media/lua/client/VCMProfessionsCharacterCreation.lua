@@ -637,7 +637,7 @@ function CharacterCreationProfession:isTraitEnabled(trait)
     if not namespace then
         error("VCM Professions: trait has no namespace: " .. tostring(traitType))
     end
-    if string.lower(namespace) ~= "base" then
+    if string.lower(namespace) == "vcmprofessions" then
         return false
     end
     if config.disableSkillTraits() and VCMProfessionsTraits.grantsSkillLevels(trait) then
